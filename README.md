@@ -1,4 +1,4 @@
-# Simple & fun game written in VueJS
+# Example Frontend Web App written in VueJS
 
 This repo can be used as a starting point to deploy VueJS frontend applications on Simplifyd.
 
