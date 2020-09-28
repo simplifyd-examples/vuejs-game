@@ -1,29 +1,10 @@
-# alienzombie-game
+# Simple & fun game written in VueJS
 
-## Project setup
-```
-yarn install
-```
+This repo can be used as a starting point to deploy VueJS frontend applications on Simplifyd.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+The source code is a fork of Sarah Drasner's alien zombie game written in VueJS.
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+The sample app is up at https://vuejs-alien-game.simplifyd.app.
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## How to deploy on Simplifyd
+See the guide at https://docs.simplifyd.com/vuejs.
